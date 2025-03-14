@@ -1,5 +1,5 @@
+<img src="exported_qrcode_image_600" width="200" height="200">
 
-" width="600" Height="300" />
 | 項次 | 項目 | 內容 |
 |----:|------|------|
 |1 | 圖片 | <img src="people.jpg" width="100" Height="100" />|
