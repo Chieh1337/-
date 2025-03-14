@@ -1,4 +1,4 @@
-<img src="exported_qrcode_image_600" width="600" Height="300" />
+
 " width="600" Height="300" />
 | 項次 | 項目 | 內容 |
 |----:|------|------|
