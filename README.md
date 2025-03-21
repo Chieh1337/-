@@ -1,3 +1,4 @@
+<img src="exported_qrcode_image_600.png" width="200" height="200">
 觀看影片一
 <a href="https://www.youtube.com/watch?v=aFkMh3PSGik" target="_blank">方大同-天氣先生
 </a>
