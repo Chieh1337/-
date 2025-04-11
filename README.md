@@ -2,6 +2,7 @@
 <br>
  
 
+<details>
 
 | 項次 | 項目 | 內容 |
 |----:|------|------|
@@ -11,7 +12,7 @@
 | 4 | 任職公司 | 亮麗生物科技有限公司 |
 | 5 | 喜好 | 音樂 |
 
-
+<details>
 _____________________
 
 觀看影片一
@@ -19,7 +20,7 @@ _____________________
 <a href="https://www.youtube.com/watch?v=Rl3uA5TG4zY" target="_blank"><img src="Bittersweet.png.png"
 alt="[MV] Kid Milli, dress _ Bittersweet (Feat. ron)" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
-
+<details>
 <br><br><br>
 觀看影片二
 <a href="https://www.youtube.com/watch?v=6WSGQePUCG8" target="_blank">하하하 LOL</a><br>
